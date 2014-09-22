@@ -13,6 +13,9 @@
   </engines>
 
   <name>Google Play Services for Android</name>
+  <description>
+    Allows users to use play services
+  </description>
 
   <platform name="android">
     <config-file target="AndroidManifest.xml" parent="/manifest/application">
